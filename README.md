@@ -7,7 +7,6 @@ This project demonstrates how to build an image labeling tool powered by Amazon 
 
 
 ### Steps Covered 👩‍💻
-In this project, we'll walk through the following key steps:
 - Setting up an Amazon S3 bucket
 - Uploading images to S3
 - Installing and configuring the AWS Command Line Interface (CLI)
